@@ -1,10 +1,10 @@
-# demo 
+# demo
 ```
-<div id="progress1"></div>
+<div id="progress"></div>
 <script src="progress.js"></script>
 <script>
    var params = {
-  id:"progress1",//dom
+  id:"progress",//dom
   bgColor:"#e5e5e5",//背景色
   barColor:"#fe6500",//进度条颜色
   textColor:"#fe6500",//文字颜色
